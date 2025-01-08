@@ -1,0 +1,2 @@
+
+Este projeto consiste no desenvolvimento de um jogo de Campo Minado utilizando Java e a biblioteca Swing para a interface gráfica. O jogo segue a lógica clássica do campo minado, onde o jogador deve descobrir as células sem ativar as minas, utilizando pistas numéricas que indicam a quantidade de minas ao redor de cada célula.![image](https://github.com/user-attachments/assets/65a97641-f183-453d-ba54-0b8d06a1def1)
